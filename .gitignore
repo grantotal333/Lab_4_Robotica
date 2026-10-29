@@ -1,0 +1,27 @@
+# ROS 2 / colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+.venv/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporales
+*.tmp
+*.bak
+.DS_Store

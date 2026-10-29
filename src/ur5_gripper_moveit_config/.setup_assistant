@@ -1,0 +1,11 @@
+
+moveit_setup_assistant_config:
+  urdf:
+    package: ur5_robotiq_description
+    relative_path: urdf/ur_with_gripper_moveit_demo.urdf.xacro
+  srdf:
+    relative_path: config/ur.srdf
+  package_settings:
+    author_name: Juan Diego Garcia Molina
+    author_email: juan.gmolina@mail.escuelaing.edu.co
+    generated_timestamp: 1793243968
